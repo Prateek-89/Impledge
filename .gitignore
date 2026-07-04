@@ -1,0 +1,12 @@
+# Compiled Java class files (except Main.class which is tracked)
+*.class
+!Main.class
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.iml

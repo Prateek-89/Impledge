@@ -43,9 +43,7 @@ public class Main {
                     }
                 }
             }
-
             long finish = System.currentTimeMillis();
-
             System.out.println(" Result-");
             System.out.println("Longest Compound Word" + longestCompoundWord);
             System.out.println("Second Longest Compound Word: " + secondLongestCompoundWord);
